@@ -14,7 +14,7 @@ jobs:
           # Your ACCELQ Application URL in the exact following format: https://<hostname>:<port_num>
           appURL: https://staging.accelq.io/
           # Your ACCELQ User ID
-          userName: Karthika Devi
+          userName: karthikadevisukumar@gmail.com
           # API key available in Profile section of ACCELQ
           apiKey: 3K4xzLz19Lx_RXcKe0mojQ25XqBIyeWEV94p2GiSzJE
           # Tenant Code displayed in the Profile section of ACCELQ
